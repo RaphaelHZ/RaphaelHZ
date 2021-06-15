@@ -1,2 +1,1 @@
 - 👋 Hi, I’m @RaphaelHZ
-- 🌱 I’m currently learning python, and trying to undestand how to work with Github
